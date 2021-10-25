@@ -11,7 +11,7 @@
 
 
   ## Preview of app in command line
-  ![READMEGENERATOR](../src/images/team-profile-generator-prompts.PNG)
+  ![TEAMPROFILEGENERATOR](./src/images/team-profile-generator-prompts.PNG)
 
 
   ## Built with
@@ -27,7 +27,7 @@
   Startup the team-profile-generator with a command prompt interface, then type "npm install" to install packages for node modules. After module installations, run the application from the command line by typing in "node index.js" and proceed throught the command prompts to create your Team Profile.
 
   ## Video of how app works.
-  [Screencastify](https://watch.screencastify.com/v/UOfx2BBVf4d7ggVBYHJX)
+  [Tutorial](https://watch.screencastify.com/v/UOfx2BBVf4d7ggVBYHJX)
 
   ## Contributing Members
   Ben Vue
@@ -35,8 +35,8 @@
   ## Testing 
    N/A
 
-  ## Preview of app in command lineS
-  ![TEAM PROFILE GENERATOR](./src/images/team-profile-generator-prompts.PNG)
+  ## Preview of app final product
+  ![TEAMPROFILEGENERATOR](./src/images/team-profile-generator.PNG)
 
   ### GitHub Profile
   [GitHub Profile](http://github.com/benyvue)
