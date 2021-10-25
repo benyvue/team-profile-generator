@@ -36,7 +36,7 @@
    N/A
 
   ## Preview of app final product
-  ![FINALPRODCUT](./src/images/final-product.PNG)
+  ![FINALPRODCUT](./src/images/final-product.png)
 
   ### GitHub Profile
   [GitHub Profile](http://github.com/benyvue)
