@@ -36,7 +36,7 @@
    N/A
 
   ## Preview of app final product
-  ![TEAMPROFILEGENERATOR](./src/images/team-profile-generator.PNG)
+  ![FINALPRODCUT](./src/images/fianl-product.PNG)
 
   ### GitHub Profile
   [GitHub Profile](http://github.com/benyvue)
